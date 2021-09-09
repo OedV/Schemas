@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T14:01:51.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="-iLIh3GpvKic7XZiA6uq" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T14:04:22.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="K6B5ZpXnSAmkYGn8OfBJ" version="15.1.2" type="github">
   <diagram id="FmcaAKB2cFFs51TwNic5" name="Page-1">
     <mxGraphModel dx="1186" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,26 +8,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-1" value="AddToBasket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="39" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHPsFoaIqlHAHNvTVhfj-2" target="HHPsFoaIqlHAHNvTVhfj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-2" value="&lt;span&gt;Sepeti Cache üzerinden alma&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HHPsFoaIqlHAHNvTVhfj-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="280" as="targetPoint" />
+            <mxPoint x="639" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-3" value="&lt;span&gt;Sepet Nesnesi Oluşturma&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="669" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-4" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HHPsFoaIqlHAHNvTVhfj-14" target="HHPsFoaIqlHAHNvTVhfj-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="140" as="sourcePoint" />
-            <mxPoint x="220" y="140" as="targetPoint" />
+            <mxPoint x="99" y="195" as="sourcePoint" />
+            <mxPoint x="219" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-5" value="Sepet Var" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HHPsFoaIqlHAHNvTVhfj-4">
@@ -35,8 +35,8 @@
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHPsFoaIqlHAHNvTVhfj-14" target="HHPsFoaIqlHAHNvTVhfj-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="71" as="sourcePoint" />
-            <mxPoint x="240" y="180" as="targetPoint" />
+            <mxPoint x="339" y="126" as="sourcePoint" />
+            <mxPoint x="239" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-7" value="Sepet Yok" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HHPsFoaIqlHAHNvTVhfj-6">
@@ -46,25 +46,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-10" value="BasketItem(ProductId, Quantity)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="380" width="160" height="60" as="geometry" />
+          <mxGeometry x="559" y="435" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHPsFoaIqlHAHNvTVhfj-12" target="HHPsFoaIqlHAHNvTVhfj-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-12" value="UpdateBasket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="579" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-14" value="GetBasket(SiteId, CustomerId)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="589" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHPsFoaIqlHAHNvTVhfj-19" target="HHPsFoaIqlHAHNvTVhfj-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-19" value="Quantity Kontrol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="579" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHPsFoaIqlHAHNvTVhfj-24" value="Return result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="39" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHPsFoaIqlHAHNvTVhfj-26" value="Vivense.Aggregator.Basket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="159.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HHPsFoaIqlHAHNvTVhfj-27" value="Vivense.Api.Basket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="569.25" y="20" width="159.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
